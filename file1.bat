@@ -1,1 +1,1 @@
-echo "jenkins project test" >> C:\test1\jenkins.txt 
+echo "jenkins automatic trigger" >> C:\test1\jenkins.txt 
