@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-09d8b5222f2b93bf0 --count 1 --instance-type t2.micro --key-name ragheedkey--security-group-ids sg-0df3b75438967dd91 --subnet-id subnet-75cf5f5a
